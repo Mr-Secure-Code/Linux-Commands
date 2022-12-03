@@ -43,3 +43,11 @@ cut -d" " -f1-5 > new_file_name/old_file_name
 cut -d" " -f >> old_file_name/new_file_name
 ```
 
+```
+cut --help
+```
+
+```
+cut --version
+```
+
