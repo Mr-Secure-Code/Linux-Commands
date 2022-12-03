@@ -28,7 +28,7 @@ cut -d":" -f1-10 file_name
 ```
 
 ```
-cat file_name | cut -d" " -f1,2,4,7 file_name
+cat file_name | cut -d" " -f1,2,4,7
 ```
 
 ```
